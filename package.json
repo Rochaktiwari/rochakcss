@@ -1,0 +1,23 @@
+{
+  "name": "rochakcss",
+  "version": "1.0.4",
+  "description": "A lightweight utility-first CSS framework — your own mini Tailwind!",
+  "main": "dist/rochak.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node -e \"console.log('rochakcss loaded ✔')\""
+  },
+  "keywords": [
+    "css",
+    "utility-first",
+    "framework",
+    "tailwind-like",
+    "rochakcss"
+  ],
+  "author": "Rochak Tiwari",
+  "license": "MIT",
+  "files": [
+    "dist/",
+    "README.md"
+  ]
+}
